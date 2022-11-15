@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RusticWolf86
 - 👀 I’m interested in High Energy and Nuclear Physics
-- 🌱 I’m currently learning Blender and Solidworks
+- 🌱 I’m currently learning Blender, Solidworks and Unreal Engine 5
 - 📫 Drop me a mail on porus.vaid@gmail.com
 
 <!---
