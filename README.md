@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Porus Vaid
-- 👀 I’m interested in High Energy and Nuclear Physics
-- 🌱 I’m currently learning Blender, Solidworks and Unreal Engine 5
+- 👀 I’m interested in Data Science and AI
+- 🌱 I’m currently learning Machine learning
 - 📫 Drop me a mail on porus.vaid@gmail.com
 
 <!---
