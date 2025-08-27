@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Porus Vaid
 - 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Machine learning
-- 📫 Drop me a mail on porus.vaid@gmail.com
+- 🌱 I’m currently doing my masters in 3D Compter Vision
+- 📫 Drop me a email at porus.vaid@gmail.com
 
 <!---
 RusticWolf86/RusticWolf86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
